@@ -2,7 +2,8 @@
 description: >-
   As an Open Source Mobile Operating System, Android is designed as an open,
   free and secure operating system, however, with manufacture customized
-  firmware, Android is more like a tracking, unsafe OS.
+  firmware, Android is more like a tracking, unsafe OS. This guide is from a user's view (not a developer's) to
+  secure your android device and avoid tracking and privacy leaking.
 ---
 
 # Android Security Guide
